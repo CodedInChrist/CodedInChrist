@@ -1,4 +1,4 @@
-### 👋 Hi, I’m @CodedInChrist
+### 👋 Hi, I’m @Michelle
 
 - 🎓 I’m a student developer passionate about building real-world solutions using modern tech.
 - 💡 I’m currently working on a Complaint Reporting App (Spring Boot API, React Web, Android Java).
