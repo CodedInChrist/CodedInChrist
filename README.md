@@ -1,16 +1,28 @@
-## Hi there 👋
+### 👋 Hi, I’m @CodedInChrist
 
-<!--
-**CodedInChrist/CodedInChrist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 I’m a student developer passionate about building real-world solutions using modern tech.
+- 💡 I’m currently working on a Complaint Reporting App (Spring Boot API, React Web, Android Java).
+- 🌱 I’m learning more about full-stack development and version control with Git and GitHub.
+- 🤝 I’m looking to collaborate on impactful public service apps and open-source projects.
+- 📬 Reach me: codedinchrist23@gmail.com
+- ⚡ Fun fact: I love turning complex problems into clean, intuitive user experiences.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Technologies I use
+
+- **Languages**: Java, JavaScript, HTML/CSS
+- **Frameworks**: Spring Boot, React, Android SDK
+- **Tools**: Git, GitHub, Figma, Postman
+- **Other**: Firebase, REST APIs, ViewBinding
+
+---
+
+### 📌 Goals for 2025
+
+- ✅ Build and deploy at least 3 full-stack apps
+- ✅ Reach 300+ meaningful GitHub commits
+- ✅ Learn advanced Android architecture patterns (MVVM, Jetpack Compose)
+- ✅ Collaborate with other developers
+
+---
